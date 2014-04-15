@@ -1,0 +1,25 @@
+#final {
+  margin-right: 15px;
+}
+#table {
+  margin-top: 10px;
+}
+.button {
+  width: 100px;
+  margin-right: 10px;
+}
+td,
+tr {
+  margintop: 10px;
+  border: 1px solid black;
+}
+.withdrawl {
+  color: red;
+}
+.deposit {
+  color: green;
+}
+.bal {
+  font-size: 17px;
+  margin-right: 5px;
+}
